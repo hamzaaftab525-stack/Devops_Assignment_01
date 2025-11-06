@@ -543,3 +543,4 @@ a:focus, button:focus, .btn:focus, .profile-photo:focus {
   .profile-card { padding:16px; gap:12px; }
   .top-nav { display:none; } /* hide nav on tiny screens (replace with menu if needed) */
 }
+
